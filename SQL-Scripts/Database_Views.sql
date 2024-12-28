@@ -106,7 +106,7 @@ INNER JOIN
     
 SELECT * FROM Cus_info;
 
--- Again updating the updated 'Cus_info' named view to include only salary greater than 5000
+-- Again updating the updated 'Cus_info' view to include only salary greater than 5000
 ALTER VIEW Cus_info AS
 SELECT
 	c.Name, c.Age, o.OrderDate, o.Amount, c.Address, c.Salary
