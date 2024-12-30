@@ -12,6 +12,7 @@ A beginner-friendly repository of SQL scripts that demonstrate the use of basic 
 - `Conditional_Queries.sql`: Examples of how we can use different conditions in DDL or DML Commands.
 - `Sub_&_Join_Quereis.sql`: Scripts demonstrating sub queries and join queries examples.
 - `Database_Views.sql`: Scripts demonstating how to create different views in DBMS.
+- `Stored_Procedures.sql`: Scripts related with stored procedures like creating,dropping and updating stored procedures.
 - `README.md`: This file.
 
 ## Usage
